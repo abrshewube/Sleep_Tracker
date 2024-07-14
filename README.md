@@ -1,6 +1,5 @@
 # A BlogApp with Spring Boot
 
-#### More complex version is here: https://github.com/gtiwari333/spring-boot-web-application-seed
 
 ### Intro
 
